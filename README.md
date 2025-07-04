@@ -86,7 +86,7 @@ Es una aplicación de traducción que utiliza el modelo conversacional de **Deep
 <a id="section_04"></a>
 ## *04 📌 Notes*
 
-Esta aplicación utiliza el modelo "deepseek-chat" del endpoint "https://api.deepseek.com/v1/chat/completions" de la API de DeepSeek.
+Esta aplicación utiliza el modelo "deepseek-chat" del endpoint "api.deepseek.com/v1/chat/completions" de la API de DeepSeek.
 
 Requiere una cuenta activa en DeepSeek.
 
