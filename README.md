@@ -80,3 +80,27 @@ Es una aplicación de traducción que utiliza el modelo conversacional de **Deep
 | HTTP Method | Endpoint           | Comentario                       |
 |-------------|--------------------|----------------------------------|
 | POST        | /api/traducir      | Translate text                   |
+
+<br>
+
+<a id="section_04"></a>
+## *04 📌 Notes*
+
+Esta aplicación utiliza el modelo "deepseek-chat" del endpoint "https://api.deepseek.com/v1/chat/completions" de la API de DeepSeek.
+
+Requiere una cuenta activa en DeepSeek.
+
+<br>
+
+<a id="section_05"></a>
+## *05 🧑‍💻 Author*
+
+Proyecto desarrollado por **JOYJOS** como parte del curso de Udemy:  
+_“Desarrollo Web con IA: OpenAI, DeepSeek, JavaScript y NodeJS”_
+
+<br>
+
+<a id="section_06"></a>
+## *06 📜 License*
+
+Este proyecto está disponible bajo la licencia [MIT](LICENSE).
